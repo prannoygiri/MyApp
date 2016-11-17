@@ -1,3 +1,7 @@
 #MY APP
 #created in  README
-#git Repository
+#git Repository 
+
+
+#edited in Terminal..
+#Myapp
